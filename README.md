@@ -3,4 +3,4 @@
 # DATA_GATHERING.ipynb
 DATA_GATHERING.ipynb는 키움 증권 데이터를 받아오는 역할을 합니다.
 DATA_GATHERING.ui와 Data_Gathering.png는 Data_Gathering.ipynb를 실행할 때 필요한 파일입니다
-
+DATA_GATHERING.ui는 qt designer를 통해 만들었습니다.
